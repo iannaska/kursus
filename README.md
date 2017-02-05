@@ -1,5 +1,7 @@
 # Eesrakenduste arendamine 2017k
 
+#### [Lindistatud loengud saadaval SIIT YouTube'is](https://www.youtube.com/playlist?list=PLKRRRfRASlMVHIaBkaXq1vxr_vpwWO4A6)
+
 * **Kursuseprogramm:** [IFI6211](#)
 * **Õpetaja:** Romil Rõbtšenkov, [romilr@tlu.ee](mailto:romilr@tlu.ee)
 * **Testserver:** lin2.tlu.ee, greeny.cs.tlu.ee
