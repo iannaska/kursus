@@ -142,6 +142,7 @@ Need rakenduvad ka päris elus!
    })();
    ```
     * *single-page-application* artikli põhjal [Reimagining Single-Page Applications With Progressive Enhancement](https://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/)
+    * [näide](http://minitorn.cs.tlu.ee/~romil/singleton-example.js) – kas tunned ära kust lehelt on see pärit? 
     * Kasutame Singleton mustrit (Loe kindlasti mustrite kohta lähemalt [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani)
 
 ### Praktikum 
