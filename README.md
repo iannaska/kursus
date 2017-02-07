@@ -131,6 +131,7 @@ Need rakenduvad ka päris elus!
 ### 2. tund
 
 1. JS rakenduse ülesehitus (objektorienteeritud kood)
+    * CSS reeglite tühistamine [normalize.css](https://necolas.github.io/normalize.css/)
     * JS "use strict" – [w3schools](http://www.w3schools.com/js/js_strict.asp), [ECMAScript 5 Strict Mode](http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/)
     
    ```JS
