@@ -132,6 +132,15 @@ Need rakenduvad ka päris elus!
 
 1. JS rakenduse ülesehitus (objektorienteeritud kood)
     * JS "use strict" – [w3schools](http://www.w3schools.com/js/js_strict.asp), [ECMAScript 5 Strict Mode](http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/)
+    
+   ```JS
+   (function(){
+      "use strict";
+
+      // rakenduse sisu
+
+   })();
+   ```
     * *single-page-application* artikli põhjal [Reimagining Single-Page Applications With Progressive Enhancement](https://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/)
     * Kasutame Singleton mustrit (Loe kindlasti mustrite kohta lähemalt [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani)
 
