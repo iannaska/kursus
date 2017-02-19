@@ -95,7 +95,7 @@ Need rakenduvad ka päris elus!
     * Loomingulisus (NB! nõuded peavad olema täidetud)
 
 ## Kursus
-### 1. tund
+### 1. loeng
 
 1. Sissejuhatus
     * Veebiprogrammeerimise aine kokkuvõte
@@ -130,7 +130,7 @@ Need rakenduvad ka päris elus!
    * **Vaata kuidas ja mis järjekorras JS ning brauser koostööd teevad [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) by Philip Roberts**
    * **Singleton muster [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani**
 
-### 2. tund
+### 2. loeng
 
 1. JS rakenduse ülesehitus (objektorienteeritud kood)
     * JS "use strict" – [w3schools](http://www.w3schools.com/js/js_strict.asp), [ECMAScript 5 Strict Mode](http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/)
@@ -150,7 +150,7 @@ Need rakenduvad ka päris elus!
 ### Praktikum 
 [1. kodutöö](https://github.com/eesrakenduste-arendamine-2017k/1.ea-kodutoo) lõpetamine + küsimused
 
-### 3. tund ([vt iseseisvalt videoloengu põhjal](https://www.youtube.com/playlist?list=PLKRRRfRASlMVHIaBkaXq1vxr_vpwWO4A6))
+### 3. loeng ([vt iseseisvalt videoloengu põhjal](https://www.youtube.com/playlist?list=PLKRRRfRASlMVHIaBkaXq1vxr_vpwWO4A6))
 
 1. JS mitme lehe rakendus 
     * *single-page-application* artikli põhjal [Reimagining Single-Page Applications With Progressive Enhancement](https://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/)
@@ -158,6 +158,7 @@ Need rakenduvad ka päris elus!
     * salvestamine brauseri mällu [localStorage](https://www.w3schools.com/html/html5_webstorage.asp) abil
     * Brauseri CSS'i tühistamine [normalize.css](https://necolas.github.io/normalize.css/)
     * Unikaalse id genereerimine [Create GUID / UUID in JavaScript?](http://stackoverflow.com/questions/105034/create-guid-uuid-in-javascript)
+    * Kui palju saab salvestada brauseris localStorage'i abil [Working with quota on mobile browsers](https://www.html5rocks.com/en/tutorials/offline/quota-research/)
     * näidisrakendus [Moosipurk](https://github.com/eesrakenduste-arendamine-2017k/Moosipurk)
 1. [2. kodutöö](https://github.com/eesrakenduste-arendamine-2017k/2.ea-kodutoo)
    
