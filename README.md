@@ -156,8 +156,9 @@ Need rakenduvad ka päris elus!
     * *single-page-application* artikli põhjal [Reimagining Single-Page Applications With Progressive Enhancement](https://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/)
     * [JSON](https://www.w3schools.com/js/js_json_intro.asp) annab meile võimaluse teha objektist stringi ja seda kus iganes salvestada ning programmeerimiskeelte ja lehtede vahel andmeid vahetada. 
     * salvestamine brauseri mällu [localStorage](https://www.w3schools.com/html/html5_webstorage.asp) abil
-    * näidisrakendus [Moosipurk](https://github.com/eesrakenduste-arendamine-2017k/Moosipurk)
     * Brauseri CSS'i tühistamine [normalize.css](https://necolas.github.io/normalize.css/)
+    * Unikaalse id genereerimine [Create GUID / UUID in JavaScript?](http://stackoverflow.com/questions/105034/create-guid-uuid-in-javascript)
+    * näidisrakendus [Moosipurk](https://github.com/eesrakenduste-arendamine-2017k/Moosipurk)
 1. [2. kodutöö](https://github.com/eesrakenduste-arendamine-2017k/2.ea-kodutoo)
    
 
