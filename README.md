@@ -150,6 +150,16 @@ Need rakenduvad ka päris elus!
 ### Praktikum 
 [1. kodutöö](https://github.com/eesrakenduste-arendamine-2017k/1.ea-kodutoo) lõpetamine + küsimused
 
+### 3. tund ([vt iseseisvalt videoloengu põhjal](https://www.youtube.com/playlist?list=PLKRRRfRASlMVHIaBkaXq1vxr_vpwWO4A6))
+
+1. JS mitme lehe rakendus 
+    * *single-page-application* artikli põhjal [Reimagining Single-Page Applications With Progressive Enhancement](https://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/)
+    * [JSON](https://www.w3schools.com/js/js_json_intro.asp) annab meile võimaluse teha objektist stringi ja seda kus iganes salvestada ning programmeerimiskeelte ja lehtede vahel andmeid vahetada. 
+    * salvestamine brauseri mällu [localStorage](https://www.w3schools.com/html/html5_webstorage.asp) abil
+    * näidisrakendus [Moosipurk](https://github.com/eesrakenduste-arendamine-2017k/Moosipurk)
+1. [2. kodutöö](https://github.com/eesrakenduste-arendamine-2017k/2.ea-kodutoo)
+   
+
 ## Materjalid ja tööriistad
 
 ### Tunnis kasutatud rakendused
