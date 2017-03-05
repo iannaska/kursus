@@ -161,7 +161,10 @@ Need rakenduvad ka päris elus!
     * Kui palju saab salvestada brauseris localStorage'i abil [Working with quota on mobile browsers](https://www.html5rocks.com/en/tutorials/offline/quota-research/)
     * näidisrakendus [Moosipurk](https://github.com/eesrakenduste-arendamine-2017k/Moosipurk)
 1. [2. kodutöö](https://github.com/eesrakenduste-arendamine-2017k/2.ea-kodutoo)
-   
+
+### Praktikum
+
+Õnnesust täiendada [2. kodutöö](https://github.com/eesrakenduste-arendamine-2017k/2.ea-kodutoo) näidet, et see töötaks 60fps ja joonistaks sõna tähthaaval. Kättesaadav siin: [Typer60fps](https://github.com/eesrakenduste-arendamine-2017k/Typer60fps)
 
 ## Materjalid ja tööriistad
 
