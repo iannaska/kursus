@@ -166,6 +166,32 @@ Need rakenduvad ka päris elus!
 
 Õnnesust täiendada [2. kodutöö](https://github.com/eesrakenduste-arendamine-2017k/2.ea-kodutoo) näidet, et see töötaks 60fps ja joonistaks sõna tähthaaval. Kättesaadav siin: [Typer60fps](https://github.com/eesrakenduste-arendamine-2017k/Typer60fps)
 
+### 4.loeng
+
+1. JS abil andmete salvestamine
+    * [JSON](https://www.w3schools.com/js/js_json_intro.asp) annab meile võimaluse teha objektist stringi ja seda kus iganes salvestada ning programmeerimiskeelte ja lehtede vahel andmeid vahetada. 
+    * salvestamine brauseri mällu [localStorage](https://www.w3schools.com/html/html5_webstorage.asp) abil
+    * UNIX timestamp JS ja PHP vahel – [stack overflow](http://stackoverflow.com/questions/15593759/timestamp-between-javascript-and-php/20502368#20502368)
+1. AJAX
+   * [GET](http://stackoverflow.com/a/9713078)
+   * [POST](http://stackoverflow.com/a/18995200)
+1. Automaatsalvestus kui viimasest sündmusest on teatud aeg möödas
+```JS
+// after typing init autosave
+
+var timer; // GLOBAL
+
+var doneTypingInterval = 2500;
+
+if(timer){ clearTimeout(timer); }
+timer = window.setTimeout(function() {
+
+   // TODO check if really changed
+   save();
+   
+}, doneTypingInterval);
+```
+
 ## Materjalid ja tööriistad
 
 ### Tunnis kasutatud rakendused
