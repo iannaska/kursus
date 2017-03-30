@@ -192,6 +192,14 @@ timer = window.setTimeout(function() {
 }, doneTypingInterval);
 ```
 
+
+### 5.loeng
+
+1. Chrome extensioni loomine
+   - [Alustamine](https://developer.chrome.com/extensions/getstarted)
+1. Abiks extension'i uuendamisel [Extensions Reloader](https://chrome.google.com/webstore/detail/extensions-reloader/fimgfedafeadlieiabdeeaodndnlbhid?hl=en)
+1. [3. kodutöö](https://github.com/eesrakenduste-arendamine-2017k/3.ea-kodutoo)
+
 ## Materjalid ja tööriistad
 
 ### Tunnis kasutatud rakendused
