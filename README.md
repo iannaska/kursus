@@ -200,6 +200,21 @@ timer = window.setTimeout(function() {
 1. Abiks extension'i uuendamisel [Extensions Reloader](https://chrome.google.com/webstore/detail/extensions-reloader/fimgfedafeadlieiabdeeaodndnlbhid?hl=en)
 1. [3. kodutöö](https://github.com/eesrakenduste-arendamine-2017k/3.ea-kodutoo)
 
+
+### 6.loeng
+
+1. Service Worker'i kasutamine – [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
+1. [Push Notification](https://developers.google.com/web/fundamentals/getting-started/codelabs/push-notifications/) ja saatmise abi katsetamiseks [Push Companion](https://web-push-codelab.appspot.com/) 
+1. Mobiilse seadme kasutamine debugimiseks Chrome'iga [Get Started with Remote Debugging Android Devices](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/)
+1. Chrome debug urli [chrome://inspect/#service-workers](chrome://inspect/#service-workers) ja [chrome://serviceworker-internals/](chrome://serviceworker-internals/)
+1. API'de näited
+   -  [twitter-search-api-example](https://github.com/eesrakenduste-arendamine-2017k/twitter-search-api-example) näidisrepo
+      - [Twitter My Apps](https://apps.twitter.com/) - loo endale rakendus
+      - [Twitter Search API](https://dev.twitter.com/rest/public/search) - dokumentatsioon
+   - [google-maps-example](https://github.com/eesrakenduste-arendamine-2017k/google-maps-example) näidisrepo
+      - [Google Developers Console](https://console.developers.google.com) - loo endale rakendus
+      - [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/) - dokumentatsioon
+
 ## Materjalid ja tööriistad
 
 ### Tunnis kasutatud rakendused
