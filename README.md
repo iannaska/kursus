@@ -211,6 +211,7 @@ timer = window.setTimeout(function() {
    -  [twitter-search-api-example](https://github.com/eesrakenduste-arendamine-2017k/twitter-search-api-example) näidisrepo
       - [Twitter My Apps](https://apps.twitter.com/) - loo endale rakendus
       - [Twitter Search API](https://dev.twitter.com/rest/public/search) - dokumentatsioon
+      - [Twitter API Exchange](https://github.com/J7mbo/twitter-api-php) - lisateek, et kergem päringuid teha
    - [google-maps-example](https://github.com/eesrakenduste-arendamine-2017k/google-maps-example) näidisrepo
       - [Google Developers Console](https://console.developers.google.com) - loo endale rakendus
       - [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/) - dokumentatsioon
