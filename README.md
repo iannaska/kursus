@@ -2,7 +2,7 @@
 
 #### [Lindistatud loengud saadaval SIIT YouTube'is](https://www.youtube.com/playlist?list=PLKRRRfRASlMVHIaBkaXq1vxr_vpwWO4A6)
 
-#### [Vaata kodutööde seisu SIIN](http://minitorn.cs.tlu.ee/~romil/GitHubCourseManager/view.php?org=eesrakenduste-arendamine-2017k&admin=romilrobtsenkov&exclude=kursus,ea-projekt-2017k,1.ea-tund,2.ea-tund_parooli-generaator,Moosipurk,Typer60fps)
+#### [Vaata kodutööde seisu SIIN](http://minitorn.cs.tlu.ee/~romil/GitHubCourseManager/view.php?org=eesrakenduste-arendamine-2017k&admin=romilrobtsenkov&exclude=kursus,1.ea-tund,2.ea-tund_parooli-generaator,Moosipurk,Typer60fps,4.ea-tund_AJAXandJSON,5.ea-tund_Extension,google-maps-example,twitter-search-api-example,sayings-offline-app)
 
 * **Kursuseprogramm:** [IFI6211](#)
 * **Õpetaja:** Romil Rõbtšenkov, [romilr@tlu.ee](mailto:romilr@tlu.ee)
